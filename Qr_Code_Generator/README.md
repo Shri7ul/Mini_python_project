@@ -30,7 +30,7 @@ pip install qrcode
 pip install pillow
 ```
 
-You will be prompted to enter:
+## You will be prompted to enter:
 
 1.The data you want to encode (e.g., a URL or text)
 
